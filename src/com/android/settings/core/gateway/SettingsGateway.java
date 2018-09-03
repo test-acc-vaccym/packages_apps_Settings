@@ -144,6 +144,7 @@ import com.os9.settings.fragments.LockScreenSettings;
 import com.os9.settings.fragments.MiscSettings;
 import com.os9.settings.fragments.NavbarSettings;
 import com.os9.settings.fragments.NotificationSettings;
+import com.os9.settings.fragments.OmniJawsSettings;
 import com.os9.settings.fragments.PowerMenuSettings;
 import com.os9.settings.fragments.QuickSettings;
 import com.os9.settings.fragments.AnimationSettings;
@@ -283,6 +284,7 @@ public class SettingsGateway {
             MiscSettings.class.getName(),
             NavbarSettings.class.getName(),
             NotificationSettings.class.getName(),
+            OmniJawsSettings.class.getName(),
             PowerMenuSettings.class.getName(),
             QuickSettings.class.getName(),
             AnimationSettings.class.getName(),

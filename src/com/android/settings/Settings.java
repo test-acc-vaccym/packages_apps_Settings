@@ -177,5 +177,6 @@ public class Settings extends SettingsActivity {
     public static class AnimationSettingsActivity extends SettingsActivity { /* empty */}
     public static class SmartPixelsActivity extends SettingsActivity { /* empty */ }
     public static class StatusBarSettingsActivity extends SettingsActivity { /* empty */ }
-    public static class VolumeRockerSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class VolumeRockerSettingsActivity extends SettingsActivity { /* empty */ }   
+    public static class OmniJawsSettingsActivity extends SettingsActivity { /* empty */ }
 }

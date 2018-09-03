@@ -19,5 +19,6 @@
     <!-- Os9 Interface -->
     <string name="os9_settings_title">Interface</string>
     <string name="os9_dashboard_summary">Extra Features</string>
+    <string name="weather_title">Weather</string>
 
 </resources>

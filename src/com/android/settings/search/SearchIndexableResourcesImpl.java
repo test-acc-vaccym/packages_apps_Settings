@@ -104,6 +104,7 @@ import com.os9.settings.fragments.LockScreenSettings;
 import com.os9.settings.fragments.MiscSettings;
 import com.os9.settings.fragments.NavbarSettings;
 import com.os9.settings.fragments.NotificationSettings;
+import com.os9.settings.fragments.OmniJawsSettings;
 import com.os9.settings.fragments.PowerMenuSettings;
 import com.os9.settings.fragments.QuickSettings;
 import com.os9.settings.fragments.AnimationSettings;
@@ -211,6 +212,7 @@ public class SearchIndexableResourcesImpl implements SearchIndexableResources {
         addIndex(MiscSettings.class);
         addIndex(NavbarSettings.class);
         addIndex(NotificationSettings.class);
+        addIndex(OmniJawsSettings.class);
         addIndex(PowerMenuSettings.class);
         addIndex(QuickSettings.class);
         addIndex(AnimationSettings.class);
