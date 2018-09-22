@@ -20,7 +20,7 @@
     <item>
         <shape android:shape="oval">
             <solid
-                android:color="@color/homepage_sound_background" />
+                android:color="@color/homepage_os9_background" />
             <size
                 android:width="@dimen/dashboard_tile_image_size"
                 android:height="@dimen/dashboard_tile_image_size" />

@@ -3333,7 +3333,7 @@
             android:icon="@drawable/ic_homepage_os9"
             android:taskAffinity="com.android.settings">
             <intent-filter android:priority="1">
-                <action android:name="com.os9.settings.OS9Settings" />
+                <action android:name="com.os9.settings.Os9Settings" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <intent-filter>

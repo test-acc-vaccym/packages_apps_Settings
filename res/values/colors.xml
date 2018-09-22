@@ -117,6 +117,7 @@
     <color name="homepage_app_and_notification_background">#FF7E0F</color>
     <color name="homepage_battery_background">#258982</color>
     <color name="homepage_display_background">#FFB600</color>
+    <color name="homepage_os9_background">#0097A7</color>
     <color name="homepage_sound_background">#01B1AF</color>
     <color name="homepage_storage_background">#C14CE6</color>
     <color name="homepage_security_background">#0F9D58</color>
