@@ -166,4 +166,15 @@ public class Settings extends SettingsActivity {
     public static class SystemDashboardActivity extends SettingsActivity {}
 
     public static class Os9SettingsActivity extends SettingsActivity { /* empty */ }
+    public static class ButtonSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class GestureSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class LockScreenSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class MiscSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class NavbarSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class NotificationSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class PowerMenuSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class QuickSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class RecentsSettingsActivity extends SettingsActivity { /* empty */}
+    public static class StatusBarSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class VolumeRockerSettingsActivity extends SettingsActivity { /* empty */ }
 }

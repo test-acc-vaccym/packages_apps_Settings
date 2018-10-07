@@ -138,6 +138,17 @@ import com.android.settings.wifi.calling.WifiCallingSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
 
 import com.os9.settings.Os9Settings;
+import com.os9.settings.fragments.ButtonSettings;
+import com.os9.settings.fragments.GestureSettings;
+import com.os9.settings.fragments.LockScreenSettings;
+import com.os9.settings.fragments.MiscSettings;
+import com.os9.settings.fragments.NavbarSettings;
+import com.os9.settings.fragments.NotificationSettings;
+import com.os9.settings.fragments.PowerMenuSettings;
+import com.os9.settings.fragments.QuickSettings;
+import com.os9.settings.fragments.RecentsSettings;
+import com.os9.settings.fragments.StatusBarSettings;
+import com.os9.settings.fragments.VolumeRockerSettings;
 
 public class SettingsGateway {
 
@@ -263,7 +274,19 @@ public class SettingsGateway {
             DirectoryAccessDetails.class.getName(),
             ToggleBackupSettingFragment.class.getName(),
             PreviouslyConnectedDeviceDashboardFragment.class.getName(),
+
             Os9Settings.class.getName(),
+            ButtonSettings.class.getName(),
+            GestureSettings.class.getName(),
+            LockScreenSettings.class.getName(),
+            MiscSettings.class.getName(),
+            NavbarSettings.class.getName(),
+            NotificationSettings.class.getName(),
+            PowerMenuSettings.class.getName(),
+            QuickSettings.class.getName(),
+            RecentsSettings.class.getName(),
+            StatusBarSettings.class.getName(),
+            VolumeRockerSettings.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
