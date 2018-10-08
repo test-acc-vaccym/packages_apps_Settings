@@ -15,6 +15,7 @@
 
 # Os9 Interface
 -keep class com.os9.os9settings.**
+-keep class com.android.settings.os9.**
 
 # We want to keep methods in Activity that could be used in the XML attribute onClick.
 -keepclassmembers class * extends android.app.Activity {

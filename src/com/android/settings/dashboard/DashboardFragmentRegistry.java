@@ -104,7 +104,7 @@ public class DashboardFragmentRegistry {
         PARENT_TO_CATEGORY_KEY_MAP.put(NightDisplaySettings.class.getName(),
             CategoryKey.CATEGORY_NIGHT_DISPLAY);
         PARENT_TO_CATEGORY_KEY_MAP.put(Os9Settings.class.getName(),
-                CategoryKey.CATEGORY_SYSTEM_DEVELOPMENT);
+                CategoryKey.CATEGORY_OS9);
 
         CATEGORY_KEY_TO_PARENT_MAP = new ArrayMap<>(PARENT_TO_CATEGORY_KEY_MAP.size());
 
