@@ -99,7 +99,7 @@ import com.android.settings.wifi.ConfigureWifiSettings;
 import com.android.settings.wifi.WifiSettings;
 
 import com.os9.settings.fragments.ButtonSettings;
-import com.os9.settings.fragments.GestureSettings;
+import com.os9.settings.fragments.Os9GestureSettings;
 import com.os9.settings.fragments.LockScreenSettings;
 import com.os9.settings.fragments.MiscSettings;
 import com.os9.settings.fragments.NavbarSettings;
@@ -204,7 +204,7 @@ public class SearchIndexableResourcesImpl implements SearchIndexableResources {
         addIndex(PreviouslyConnectedDeviceDashboardFragment.class);
         addIndex(BluetoothDashboardFragment.class);
         addIndex(ButtonSettings.class);
-        addIndex(GestureSettings.class);
+        addIndex(Os9GestureSettings.class);
         addIndex(LockScreenSettings.class);
         addIndex(MiscSettings.class);
         addIndex(NavbarSettings.class);

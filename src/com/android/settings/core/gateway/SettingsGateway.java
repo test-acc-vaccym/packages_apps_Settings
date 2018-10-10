@@ -139,7 +139,7 @@ import com.android.settings.wifi.p2p.WifiP2pSettings;
 
 import com.os9.settings.Os9Settings;
 import com.os9.settings.fragments.ButtonSettings;
-import com.os9.settings.fragments.GestureSettings;
+import com.os9.settings.fragments.Os9GestureSettings;
 import com.os9.settings.fragments.LockScreenSettings;
 import com.os9.settings.fragments.MiscSettings;
 import com.os9.settings.fragments.NavbarSettings;
@@ -277,7 +277,7 @@ public class SettingsGateway {
 
             Os9Settings.class.getName(),
             ButtonSettings.class.getName(),
-            GestureSettings.class.getName(),
+            Os9GestureSettings.class.getName(),
             LockScreenSettings.class.getName(),
             MiscSettings.class.getName(),
             NavbarSettings.class.getName(),
