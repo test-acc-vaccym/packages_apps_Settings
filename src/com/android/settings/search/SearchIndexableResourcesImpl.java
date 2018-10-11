@@ -107,6 +107,7 @@ import com.os9.settings.fragments.NotificationSettings;
 import com.os9.settings.fragments.PowerMenuSettings;
 import com.os9.settings.fragments.QuickSettings;
 import com.os9.settings.fragments.RecentsSettings;
+import com.os9.settings.fragments.SmartPixels;
 import com.os9.settings.fragments.StatusBarSettings;
 import com.os9.settings.fragments.VolumeRockerSettings;
 
@@ -212,6 +213,7 @@ public class SearchIndexableResourcesImpl implements SearchIndexableResources {
         addIndex(PowerMenuSettings.class);
         addIndex(QuickSettings.class);
         addIndex(RecentsSettings.class);
+        addIndex(SmartPixels.class);
         addIndex(StatusBarSettings.class);
         addIndex(VolumeRockerSettings.class);
     }
