@@ -106,7 +106,7 @@ import com.os9.settings.fragments.NavbarSettings;
 import com.os9.settings.fragments.NotificationSettings;
 import com.os9.settings.fragments.PowerMenuSettings;
 import com.os9.settings.fragments.QuickSettings;
-import com.os9.settings.fragments.RecentsSettings;
+import com.os9.settings.fragments.AnimationSettings;
 import com.os9.settings.fragments.SmartPixels;
 import com.os9.settings.fragments.StatusBarSettings;
 import com.os9.settings.fragments.VolumeRockerSettings;
@@ -205,6 +205,7 @@ public class SearchIndexableResourcesImpl implements SearchIndexableResources {
         addIndex(PreviouslyConnectedDeviceDashboardFragment.class);
         addIndex(BluetoothDashboardFragment.class);
         addIndex(ButtonSettings.class);
+
         addIndex(Os9GestureSettings.class);
         addIndex(LockScreenSettings.class);
         addIndex(MiscSettings.class);
@@ -212,7 +213,7 @@ public class SearchIndexableResourcesImpl implements SearchIndexableResources {
         addIndex(NotificationSettings.class);
         addIndex(PowerMenuSettings.class);
         addIndex(QuickSettings.class);
-        addIndex(RecentsSettings.class);
+        addIndex(AnimationSettings.class);
         addIndex(SmartPixels.class);
         addIndex(StatusBarSettings.class);
         addIndex(VolumeRockerSettings.class);

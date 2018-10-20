@@ -174,7 +174,7 @@ public class Settings extends SettingsActivity {
     public static class NotificationSettingsActivity extends SettingsActivity { /* empty */ }
     public static class PowerMenuSettingsActivity extends SettingsActivity { /* empty */ }
     public static class QuickSettingsActivity extends SettingsActivity { /* empty */ }
-    public static class RecentsSettingsActivity extends SettingsActivity { /* empty */}
+    public static class AnimationSettingsActivity extends SettingsActivity { /* empty */}
     public static class SmartPixelsActivity extends SettingsActivity { /* empty */ }
     public static class StatusBarSettingsActivity extends SettingsActivity { /* empty */ }
     public static class VolumeRockerSettingsActivity extends SettingsActivity { /* empty */ }

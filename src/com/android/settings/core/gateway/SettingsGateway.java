@@ -146,7 +146,7 @@ import com.os9.settings.fragments.NavbarSettings;
 import com.os9.settings.fragments.NotificationSettings;
 import com.os9.settings.fragments.PowerMenuSettings;
 import com.os9.settings.fragments.QuickSettings;
-import com.os9.settings.fragments.RecentsSettings;
+import com.os9.settings.fragments.AnimationSettings;
 import com.os9.settings.fragments.SmartPixels; 
 import com.os9.settings.fragments.StatusBarSettings;
 import com.os9.settings.fragments.VolumeRockerSettings;
@@ -285,7 +285,7 @@ public class SettingsGateway {
             NotificationSettings.class.getName(),
             PowerMenuSettings.class.getName(),
             QuickSettings.class.getName(),
-            RecentsSettings.class.getName(),
+            AnimationSettings.class.getName(),
             SmartPixels.class.getName(),
             StatusBarSettings.class.getName(),
             VolumeRockerSettings.class.getName(),
